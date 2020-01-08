@@ -1,0 +1,15 @@
+.clock {
+    display: flex;
+    justify-content: center;
+}
+.clockText {
+    font-size: 2rem;
+}
+.error {
+    text-align: center;
+    font-size: 2rem;
+}
+.loading {
+    text-align: center;
+    font-size: 2rem;
+}
