@@ -27,10 +27,7 @@ class App extends React.Component {
     if(this.state.position && !this.state.error) {
     return (
       <TimeofDay time={this.state.time}>
-        {/* <div> Position: {this.state.position}</div> */}
-        <div className="clock">
-            <div className="clockText">{this.state.time.toLocaleTimeString('en-GB')}</div>   
-        </div>
+        <div className="clock">{this.state.time.toLocaleTimeString('en-GB')}</div>   
       </TimeofDay>
     )
     }

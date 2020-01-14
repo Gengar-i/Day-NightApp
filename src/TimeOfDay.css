@@ -1,6 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .timeText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
     font-size: 2rem;
     text-align: center;
+}
+.season {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
 }
 .night {
 
@@ -12,5 +28,4 @@
 
 }
 .evening {
-
 }

@@ -1,15 +1,21 @@
 .clock {
-    display: flex;
-    justify-content: center;
-}
-.clockText {
     font-size: 2rem;
 }
 .error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     text-align: center;
     font-size: 2rem;
+    overflow: hidden;
 }
 .loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     text-align: center;
     font-size: 2rem;
+    overflow: hidden;
 }
