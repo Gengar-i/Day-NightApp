@@ -1,5 +1,6 @@
 .clock {
-    font-size: 2rem;
+    font-size: 3rem;
+    color: white;
 }
 .error {
     display: flex;

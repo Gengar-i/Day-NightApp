@@ -7,8 +7,9 @@
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: center;
+    color: white;
 }
 .season {
     display: flex;
@@ -19,13 +20,18 @@
     overflow: hidden;
 }
 .night {
-
+    background-image: url(./img/night.jpg);
+    background-size: cover;
 }
 .morning {
-
+    background-image: url(./img/morning.jpg);
+    background-size: cover;
 }
 .afternoon {
-
+    background-image: url(./img/afternoon.jpg);
+    background-size: cover;
 }
 .evening {
+    background-image: url(./img/evening.jpg);
+    background-size: cover;
 }
