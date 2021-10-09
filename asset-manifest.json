@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Day-NightApp/static/css/main.e247e1dd.chunk.css",
+    "main.js": "/Day-NightApp/static/js/main.8f6e4a57.chunk.js",
+    "main.js.map": "/Day-NightApp/static/js/main.8f6e4a57.chunk.js.map",
+    "runtime-main.js": "/Day-NightApp/static/js/runtime-main.02e93bfd.js",
+    "runtime-main.js.map": "/Day-NightApp/static/js/runtime-main.02e93bfd.js.map",
+    "static/js/2.c777b8e3.chunk.js": "/Day-NightApp/static/js/2.c777b8e3.chunk.js",
+    "static/js/2.c777b8e3.chunk.js.map": "/Day-NightApp/static/js/2.c777b8e3.chunk.js.map",
+    "index.html": "/Day-NightApp/index.html",
+    "precache-manifest.b49c227dd3001809a808c8adc376d4fb.js": "/Day-NightApp/precache-manifest.b49c227dd3001809a808c8adc376d4fb.js",
+    "service-worker.js": "/Day-NightApp/service-worker.js",
+    "static/css/main.e247e1dd.chunk.css.map": "/Day-NightApp/static/css/main.e247e1dd.chunk.css.map",
+    "static/media/TimeOfDay.css": "/Day-NightApp/static/media/night.02fdad21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e93bfd.js",
+    "static/js/2.c777b8e3.chunk.js",
+    "static/css/main.e247e1dd.chunk.css",
+    "static/js/main.8f6e4a57.chunk.js"
+  ]
+}
