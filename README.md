@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #DEMO
 
-You can see app there :[demo](https://gengar-i.github.io/Day-NightApp/)
+You can see app there [demo](https://gengar-i.github.io/Day-NightApp/)
 
 ## Available Scripts
 
